@@ -139,6 +139,3 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author
 Asif Ali
-
-## Author ##
-Asif Ali
